@@ -1,0 +1,16 @@
+{
+  "name": "javascript-runtime-benchmark",
+  "version": "1.0.0",
+  "description": "javascript-runtime-benchmark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mauricio Soto",
+  "license": "ISC",
+  "dependencies": {
+    "autocannon": "^7.15.0",
+    "benchmark": "^2.1.4"
+  }
+}
